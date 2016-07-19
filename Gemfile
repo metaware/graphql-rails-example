@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'graphql'
 gem 'graphiql-rails'
+gem 'faker'
 
 group :development, :test do
   gem 'byebug'
